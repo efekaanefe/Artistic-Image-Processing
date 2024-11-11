@@ -3,9 +3,11 @@
 Main purpose of this repo is to take an image input, apply some math on it, and output a new image which looks somehow artistic.
 
 ### TODOs
-- [ ] **Difference of Gaussians**: Enhances edges by subtracting two Gaussian-blurred images.
-- [ ] **Kuwahara Filter**: Reduces noise while preserving edges for a painterly effect.
+- [ ] **Difference of Gaussians**: https://www.youtube.com/watch?v=5EuYKEvugLU
+- [ ] **Kuwahara Filter**: https://www.youtube.com/watch?v=LDhN-JK3U9g
 - [ ] **ASCII Art**: Converts images into text-based representation with character mapping.
+- [ ] **Nails and a Thread**: https://betterprogramming.pub/drawing-portraits-using-only-nails-and-a-thread-with-python-1cfd8c6dd040
+
 - [ ] **Gaussian Splatting**: Adds soft blur effects, creating a smoother artistic look.
 - [ ] **Edge Detection (Sobel, Canny)**: Highlights contours and lines in the image.
 - [ ] **Pencil Sketch Effect**: Converts images into pencil or chalk-like monochromatic renderings.
@@ -18,4 +20,3 @@ Main purpose of this repo is to take an image input, apply some math on it, and 
 - [ ] **Quadtree Decomposition**: Applies blocky, pixelated effects by subdividing the image.
 - [ ] **Pointillism Effect**: Mimics pointillist painting with color-based dithering.
 
-- [ ] **Nails and a Thread**: https://betterprogramming.pub/drawing-portraits-using-only-nails-and-a-thread-with-python-1cfd8c6dd040
