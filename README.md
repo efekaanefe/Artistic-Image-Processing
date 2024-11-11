@@ -18,3 +18,4 @@ Main purpose of this repo is to take an image input, apply some math on it, and 
 - [ ] **Quadtree Decomposition**: Applies blocky, pixelated effects by subdividing the image.
 - [ ] **Pointillism Effect**: Mimics pointillist painting with color-based dithering.
 
+- [ ] **Nails and a Thread**: https://betterprogramming.pub/drawing-portraits-using-only-nails-and-a-thread-with-python-1cfd8c6dd040
