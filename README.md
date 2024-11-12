@@ -5,7 +5,7 @@ Main purpose of this repo is to take an image input, apply some math on it, and 
 ### TODOs
 - [ ] **Difference of Gaussians**: https://www.youtube.com/watch?v=5EuYKEvugLU
 - [ ] **Kuwahara Filter**: https://www.youtube.com/watch?v=LDhN-JK3U9g
-- [ ] **ASCII Art**: Converts images into text-based representation with character mapping.
+- [ ] **ASCII Art**: https://www.youtube.com/watch?v=gg40RWiaHRY&t=896s
 - [ ] **Nails and a Thread**: https://betterprogramming.pub/drawing-portraits-using-only-nails-and-a-thread-with-python-1cfd8c6dd040
 
 - [ ] **Gaussian Splatting**: Adds soft blur effects, creating a smoother artistic look.
