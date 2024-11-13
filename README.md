@@ -8,6 +8,9 @@ Main purpose of this repo is to take an image input, apply some math on it, and 
 - [ ] **ASCII Art**: https://www.youtube.com/watch?v=gg40RWiaHRY&t=896s
 - [ ] **Nails and a Thread**: https://betterprogramming.pub/drawing-portraits-using-only-nails-and-a-thread-with-python-1cfd8c6dd040
 - [ ] **Pixel Sort**: https://youtu.be/HMmmBDRy-jE?si=v3VFKsQkIpAMxXBy&t=285
+- [ ] **Dither**
+- [ ] **Tone Mapping**
+- [ ] **Color Correcting**: https://jmanansala.medium.com/image-processing-with-python-color-correction-using-white-balancing-6c6c749886de
 
 - [ ] **Gaussian Splatting**: Adds soft blur effects, creating a smoother artistic look.
 - [ ] **Edge Detection (Sobel, Canny)**: Highlights contours and lines in the image.
