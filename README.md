@@ -12,6 +12,7 @@ Main purpose of this repo is to take an image input, apply some math on it, and 
 - [ ] **Dither**
 - [ ] **Tone Mapping**
 - [ ] **Color Correcting**: https://jmanansala.medium.com/image-processing-with-python-color-correction-using-white-balancing-6c6c749886de
+- [ ] **Inktober Shader**: https://www.youtube.com/watch?v=E9-LRRDVmo8
 
 - [ ] **Gaussian Splatting**: Adds soft blur effects, creating a smoother artistic look.
 - [ ] **Edge Detection (Sobel, Canny)**: Highlights contours and lines in the image.
