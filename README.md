@@ -13,6 +13,7 @@ Main purpose of this repo is to take an image input, apply some math on it, and 
 - [ ] **Inktober Shader**: https://www.youtube.com/watch?v=E9-LRRDVmo8
 - [ ] **Tone Mapping**
 - [ ] **Dither**
+- [ ] **Neural Style Transfer**: https://www.youtube.com/watch?v=Raisxja0tbM
 
 - [ ] **Gaussian Splatting**: Adds soft blur effects, creating a smoother artistic look.
 - [ ] **Edge Detection (Sobel, Canny)**: Highlights contours and lines in the image.
